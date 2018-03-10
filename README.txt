@@ -1,7 +1,6 @@
 README.txt
 
 Feilan Wang
-UID: 104796844
 
 Creative part:
 1) When spacebar is pressed, the bunny will move, together with its face distorted in both direction. 
